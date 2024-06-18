@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my second Git Repository.
 <br>
-author- Rashi Agarwal
+author- Rashi Agarwal (Myself)
